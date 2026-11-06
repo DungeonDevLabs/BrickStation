@@ -1,5 +1,7 @@
 # BrickStation · Dungeon Dev Labs
 
+<img src="assets/logo.png" width="96" alt="BrickStation logo: a pixel art orange letter B">
+
 **English** · [Português](#português)
 
 Android launcher that turns your phone into a micro game console for the TV: Android games, retro emulators and your PC library, all played with a controller. The app code is private; this repo holds the guide, the PC extension and the public documents.
