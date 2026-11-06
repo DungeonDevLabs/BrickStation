@@ -7,7 +7,7 @@
 Android launcher that turns your phone into a micro game console for the TV: Android games, retro emulators and your PC library, all played with a controller. The app code is private; this repo holds the guide, the PC extension and the public documents.
 
 <p>
-  <img src="assets/home.png" width="480" alt="BrickStation home screen with Android, Emulators and Streaming cards">
+  <img src="assets/home.png" width="100%" alt="BrickStation home screen with Android, Emulators and Streaming cards">
   <img src="assets/android.png" width="480" alt="Android games gallery with tabs and controller hints">
   <img src="assets/retro.png" width="480" alt="Retro gallery showing a NES game cover">
   <img src="assets/pc-streaming.png" width="480" alt="PC library streamed from Playnite, with covers and play time">
